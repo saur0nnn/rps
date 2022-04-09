@@ -1,2 +1,1 @@
-# rps
-banzi jeirani saurnolisgan
+# banzi jeirani saurnolisgan
